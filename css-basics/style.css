@@ -1,0 +1,74 @@
+*{
+    color:powderblue;        
+
+}
+  
+
+  /**
+  element selector
+  **/
+
+  h1{
+      color:aqua;
+
+  }
+
+  /**
+  class selector
+  **/
+      .engineering{
+        color: brown;
+      }
+
+      /**
+      id selector
+      **/
+      #csit{
+        color: purple
+      }
+
+      /**
+      grouping selector
+      **/
+      .message{
+        font-family:'Courier New', Courier, monospace
+    
+    
+      }
+
+      .sucess{
+        background-color :green;
+      }
+
+      .error{
+        background-color: red;
+      }
+      /**
+      chaining selector
+      **/
+
+      .message.sucess{
+        background-color: beige;
+      }
+      .message{
+        background: sandybrown;
+        font-family: 'Roboto Slab', serif;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: center;
+
+      }
+      img{
+        width: 600px;
+        height:500px;
+      }
+
+      .center{
+        text-align: center;
+      }
+      body{
+        background-image: url('https://picsum.photos/1024/768');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: linear-gradient(red blue);
+      }
