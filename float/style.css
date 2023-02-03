@@ -1,0 +1,24 @@
+header{
+    height: 50px;
+    background-color: aquamarine;
+}
+
+aside{
+    float: left;
+    background-color: pink;
+    height: 300px;
+    width: 30%;
+}
+
+main{
+    float: left;
+    background-color: #f5cf8e;
+    height: 500px;
+    width: 70%;
+}
+
+footer{
+    clear: left;
+    background-color: plum;
+    height: 100px;
+}

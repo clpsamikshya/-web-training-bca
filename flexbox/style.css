@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    color: bisque;
+    background-color: palevioletred;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+.link{
+    display: flex;
+    gap: 10px;
+}
+
+.hero-container{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.hero{
+    background-color: bisque;
+    width: 900px;
+    height: 200px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}

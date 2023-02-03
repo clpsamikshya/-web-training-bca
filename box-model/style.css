@@ -1,0 +1,39 @@
+/* p{
+    background-color: beige;
+    border : 10px solid pink;
+    padding : 20px 20px;
+    margin: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 10px 10px rgba(0,0,0, 0.5);
+
+}
+a{
+    display: block;
+    background-color: grey;
+    margin-right: 100px;
+    padding: 20px;
+    border: 1000px; 
+} */
+body{
+    background-color: #eee;
+}
+
+.card{
+    width: 300px;
+    background-color: #fff;
+    margin: 60px;
+
+
+}
+.card-image{
+    width: 100%;
+
+
+}
+
+.card-image img{
+    width: 100%;
+}
+.card-detail{
+    padding: 0px 0px 20px 20px ;
+}
+
