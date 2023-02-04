@@ -39,3 +39,23 @@ header{
     align-items: center;
 
 }
+
+.assignment-cointer{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-around;
+}
+
+.assignment{
+    width: 900px;
+    height: 200px;
+    justify-content: space-between;
+
+}
+
+.assignment .link{
+    justify-content: center;
+    display: flex;
+    gap:0px
+}
+
