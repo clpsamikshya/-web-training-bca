@@ -49,13 +49,10 @@ header{
 .assignment{
     width: 900px;
     height: 200px;
-    justify-content: space-between;
-
-}
-
-.assignment .link{
-    justify-content: center;
     display: flex;
-    gap:0px
-}
+    flex-direction: column;
 
+}
+img{
+    width: 100%;
+}
